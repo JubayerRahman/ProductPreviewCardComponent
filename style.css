@@ -25,10 +25,11 @@ body{
 }
 
 main{
-    display: flex;
+     display: flex;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
     width: 60%;
+    height: 100vh;
     margin: 50px;
 }
 .desktopProduct{
